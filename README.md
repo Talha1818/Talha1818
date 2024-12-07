@@ -18,6 +18,12 @@ Machine Learning Frameworks: TensorFlow, PyTorch, Scikit-learn, HuggingFace<br>
 Data Visualization: Matplotlib, Seaborn, Plotly<br>
 Version Control: Git, GitHub
 
-📫 Get in Touch
-Feel free to connect with me on LinkedIn ([https://www.linkedin.com/in/muhammad-talha-b643641b2/](https://www.linkedin.com/in/muhammad-talha-%F0%9F%87%B5%F0%9F%87%B8-b643641b2/)) or shoot me an email (muhammadtalha1818@gmai.com). I'm always open to collaboration and new opportunities!
+## 📫 Get in Touch  
+Feel free to connect with me:  
+
+- **LinkedIn**: [Muhammad Talha](https://www.linkedin.com/in/muhammad-talha-b643641b2/)  
+- **Upwork**: [Find me on Upwork](https://www.upwork.com/nx/find-work/)  
+- **Email**: [muhammadtalha1818@gmail.com](mailto:muhammadtalha1818@gmail.com)  
+
+I'm always open to collaboration and new opportunities!
 
