@@ -5,11 +5,11 @@
 I am a passionate Machine Learning Engineer currently engaged in various projects on freelancing platforms like Upwork, Fiverr, and PeoplePerHour. Additionally, I collaborate with companies both remotely and on-site, delivering impactful solutions in the fields of Machine Learning, Deep Learning, Computer Vision, NLP, Time Series Analysis, Large Language Models (LLMs), Generative AI, and Retrieval-Augmented Generation (RAG). I am dedicated to building intelligent systems that solve real-world problems efficiently and at scale.
 
 ## 🔭 Current Work<br>
-Machine Learning Engineer: Actively involved in diverse projects, specializing in enhancing e-commerce platforms and enterprise solutions through advanced data analysis and machine learning techniques, including Large Language Models (LLMs), Generative AI, and Retrieval-Augmented Generation (RAG).<be>
+**Machine Learning Engineer:** Actively involved in diverse projects, specializing in enhancing e-commerce platforms and enterprise solutions through advanced data analysis and machine learning techniques, including Large Language Models (LLMs), Generative AI, and Retrieval-Augmented Generation (RAG).<be>
 
-Freelancing Platforms: Delivering high-quality, end-to-end AI solutions to global clients on Upwork, Fiverr, and PeoplePerHour, covering a wide range of domains such as e-commerce, healthcare, finance, and education.<br>
+**Freelancing Platforms:** Delivering high-quality, end-to-end AI solutions to global clients on Upwork, Fiverr, and PeoplePerHour, covering a wide range of domains such as e-commerce, healthcare, finance, and education.<br>
 
-Collaboration with Companies: Offering deep expertise in machine learning, natural language processing, and intelligent automation—developing and deploying chatbots, recommendation systems, and real-time analytics tools—while contributing both remotely and on-site to support business transformation and innovation.
+**Collaboration with Companies:** Offering deep expertise in machine learning, natural language processing, and intelligent automation—developing and deploying chatbots, recommendation systems, and real-time analytics tools—while contributing both remotely and on-site to support business transformation and innovation.
 
 ## 🥅 Goals<br>
 My primary goal is to deepen my expertise in cutting-edge machine learning research, with a strong focus on areas such as Large Language Models (LLMs), Generative AI, Retrieval-Augmented Generation (RAG), computer vision, natural language processing, and time series analysis. I aim to leverage these technologies to develop intelligent, scalable, and innovative solutions that deliver real-world value and measurable impact across industries.
